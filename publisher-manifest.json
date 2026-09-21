@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "baa37421d4085607d26d689f",
+  "owner": "wyeueuajy",
+  "repo": "page-156a4d53f25648b529286b17",
+  "title": "白嫖(Sweet)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "156a4d53f25648b529286b17",
+      "a": "白嫖(Sweet)",
+      "b": "机场官网线路发布页",
+      "entity": "白嫖(Sweet)",
+      "brand": "白嫖(Sweet)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "821118b791c04d9e727251f84ae19cdf753376c5ef3ad5c73461e4890a740027",
+      "content": {
+        "primary_entity": "白嫖(Sweet)",
+        "keyword1": "白嫖(Sweet)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕海外加速场景提供基础版、旗舰版与团队版三档订阅。基础版每月15元含100GB流量、3台设备在线；旗舰版每月35元含300GB流量、5台设备与IPLC专线优化；团队版每月85元含1000GB流量和20台设备席位。按年付可省两个月费用，选择时先看设备数量与每月流量需求，再匹配线路类型。",
+          "AI_HERO_SUBTITLE": "三档订阅，按设备与流量选",
+          "AI_HERO_INTRO": "白嫖(Sweet)为海外加速场景提供基础版、旗舰版与团队版订阅，分别对应不同流量、设备数与线路类型。选取时先确认常用设备台数和每月大致流量，再结合流媒体与游戏加速需求决定档位。",
+          "AI_VISUAL_TITLE": "三档订阅轻松选",
+          "AI_HIGHLIGHT_1": "基础版15元含100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版20台设备1000GB",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与线路类型三个角度对比套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量额度选档",
+          "AI_FEATURE_TEXT_2": "每月100GB、300GB与1000GB三档，按年付价格分别约为150元、350元和850元。",
+          "AI_FEATURE_TITLE_3": "按线路类型选档",
+          "AI_FEATURE_TEXT_3": "基础版为普通线路节点池，旗舰版与团队版提供IPLC专线或高带宽节点。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用与少量设备，旗舰版适合流媒体和游戏加速，团队版适合多设备高流量场景。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，导入订阅后即可使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "选择套餐、确认设备适配、按客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "依据设备数量和月流量需求，在基础版、旗舰版与团队版中选定一档订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备的系统版本与客户端支持情况，核对套餐设备数上限。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "获取订阅地址后，依照客户端文档导入节点并启用连接。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "套餐可以中途升级或降级吗？",
+          "AI_FAQ_ANSWER_1": "通常可按剩余周期折算差价进行档位调整，具体以订阅管理页的变更选项为准。",
+          "AI_FAQ_QUESTION_2": "支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版3台、旗舰版5台、团队版20台同时在线，超出可能影响连接。",
+          "AI_FAQ_QUESTION_3": "按年付比按月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "按年付约为十个月价格，基础版150元、旗舰版350元、团队版850元一年。",
+          "AI_FAQ_QUESTION_4": "订阅地址如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "复制订阅链接后，在所选客户端的订阅管理中添加并更新节点列表即可。",
+          "AI_FAQ_QUESTION_5": "团队版可以定制路由吗？",
+          "AI_FAQ_ANSWER_5": "团队版提供企业定制路由与专属客户经理，可联系客服沟通具体线路需求。",
+          "AI_CLOSING_TITLE": "按需选档",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量匹配套餐，配置客户端后开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lhwlc.cn",
+    "host": "lhwlc.cn"
+  },
+  "file_hashes": {
+    "index.html": "84ccbe6a4aeab01e37a5d40db6d0c0597c9c6697ca3bb5b642cda647ddc48368",
+    "sitemap.xml": "8f5873bba4af6e028927365efbc9247660ae34a54fc52f57310f62eaf22a7dfc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2e07ed4530469862387d44cad65ae183f268639d49970a74fc59bf1fa8b81040",
+    "robots.txt": "d9bea4a0a6f4a9d76e90c44465aa0afc78e0c27b7d0ac3cf7bfd6d374ec17584",
+    "1b21cf63f82c405a584350625aae1bbb.txt": "0075b7324458de6af532b38c5d91dde58d629949f0f97b581a211e19d7c979d9"
+  },
+  "revision": "cef29ef013344099ea0f2cc5301bc6db147fba5b43373920dbe244823ad17353"
+}
